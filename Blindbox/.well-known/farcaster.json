@@ -1,0 +1,48 @@
+{
+    "accountAssociation": {
+        "header": "eyJmaWQiOjUzNzM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDVjOTkyNUQ1MDY1RTU2RkU3OTQ3OGMzMzYyNGUzRUJjYzFhOEFjN2UifQ",
+        "payload": "eyJkb21haW4iOiJ3YXJwbGV0Ym94Lnh5eiJ9",
+        "signature": "fwgwMHSaWVHyynCXm383y9OFUSLs6mJiEH6eGF7iAC1YPHGAAVB8GY1VfEztzxu+J8FArvYMU+r5ihexdF7M/xs="
+  },
+    "miniapp": {
+    "version": "1",
+    "name": "Warplet Blind Box",
+    "iconUrl": "https://github.com/gmonchain/Assets/blob/main/Blindbox/logo.png?raw=true",
+    "homeUrl": "https://warpletbox.xyz",
+    "imageUrl": "https://github.com/gmonchain/Assets/blob/main/Blindbox/banner.png?raw=true",
+    "buttonTitle": "Open Warplet Box",
+    "splashImageUrl": "https://warpletbox.xyz/splash.png",
+    "splashBackgroundColor": "#8F6AB3",
+    "castShareUrl": "https://warpletbox.xyz/share",
+    "subtitle": "Mystery Warplet Blind Boxes",
+    "description": "Open mystery boxes and collect unique Warplet NFTs on the Base network. Each box contains rare digital collectibles with different rarity levels.",
+    "screenshotUrls": [
+      "https://github.com/gmonchain/Assets/blob/main/Blindbox/banner.png?raw=true"
+    ],
+    "primaryCategory": "games",
+    "tags": [
+      "nft",
+      "blindbox",
+      "base",
+      "Warplets",
+      "blindbox"
+    ],
+    "heroImageUrl": "https://github.com/gmonchain/Assets/blob/main/Blindbox/banner.png?raw=true",
+    "tagline": "Mystery Warplet Blind Boxes",
+    "ogTitle": "Warplet Blind Box",
+    "ogDescription": "Open mystery boxes and collect unique Warplet NFTs on Base network",
+    "ogImageUrl": "https://github.com/gmonchain/Assets/blob/main/Blindbox/banner.png?raw=true",
+    "requiredChains": [
+      "eip155:8453"
+    ],
+    "webhookUrl": "https://warpletbox.xyz/api/webhook",
+    "requiredCapabilities": [
+      "wallet.getEthereumProvider",
+      "actions.signIn"
+      
+    ]
+  },
+  "baseBuilder": {
+    "ownnerAddresses": ["0xe080Afe09DA640E9707479Bd90f8Cb9c35c13992"]
+  }
+}
