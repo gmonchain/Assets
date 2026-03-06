@@ -1,0 +1,39 @@
+{
+    "accountAssociation": {
+        "header": "eyJmaWQiOjUzNzM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDVjOTkyNUQ1MDY1RTU2RkU3OTQ3OGMzMzYyNGUzRUJjYzFhOEFjN2UifQ",
+        "payload": "eyJkb21haW4iOiJiYXNlYXBwbnMudmVyY2VsLmFwcCJ9",
+        "signature": "zNbYcp8wqvlJvo2OH6R9zTQFF9uN/MxhKB74WDZTOeFWaHYd7d2iOColvtjzVZnJl/cSG2i6/scRFlfU4yoh2Rw="
+    },
+    "miniapp": {
+        "version": "1",
+        "name": "BaseApp Name Service",
+        "iconUrl": "https://baseappns.vercel.app/logo.png",
+        "homeUrl": "https://baseappns.vercel.app",
+        "imageUrl": "https://baseappns.vercel.app/bannerref.png",
+        "buttonTitle": "Join Waitlist",
+        "splashImageUrl": "https://baseappns.vercel.app/logo.png",
+        "splashBackgroundColor": "#2563eb",
+        "subtitle": "Next-gen Name Service on Base",
+        "description": "Be the first to experience the next generation of Name Service on BaseApp. Get early access and exclusive benefits.",
+        "screenshotUrls": [
+            "https://baseappns.vercel.app/bannerref.png"
+        ],
+        "primaryCategory": "utility",
+        "tags": [
+            "name-service",
+            "base",
+            "baseappns",
+            "domain",
+            "identity"
+        ],
+        "webhookUrl": "https://baseappns.vercel.app/api/webhook",
+        "heroImageUrl": "https://baseappns.vercel.app/bannerref.png",
+        "tagline": "Next-gen Name Service on Base",
+        "ogTitle": "BaseApp Name Service",
+        "ogDescription": "Experience the next generation of Name Service on BaseApp. Get early access and exclusive benefits.",
+        "ogImageUrl": "https://baseappns.vercel.app/bannerref.png",
+        "requiredChains": [
+            "eip155:8453"
+        ]
+    }
+}
