@@ -1,0 +1,46 @@
+{
+    "accountAssociation": {
+        "header": "eyJmaWQiOjUzNzM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDVjOTkyNUQ1MDY1RTU2RkU3OTQ3OGMzMzYyNGUzRUJjYzFhOEFjN2UifQ",
+        "payload": "eyJkb21haW4iOiJiYXNlcHVua3oudmVyY2VsLmFwcCJ9",
+        "signature": "iRPtbZGAsXI8diNDrXemC9VoK7kPctiQNaGH4JbtJsAPc/LHOecd04RI6Bn43eqApiHM8MoOYgjWnfq5vOVnYBs="
+    },
+    "miniapp": {
+        "version": "1",
+        "name": "Base Punkz",
+        "iconUrl": "https://basepunkz.vercel.app/logo.png",
+        "homeUrl": "https://basepunkz.vercel.app",
+        "imageUrl": "https://basepunkz.vercel.app/banner.png",
+        "buttonTitle": "Mint Base Punkz",
+        "splashImageUrl": "https://basepunkz.vercel.app/logo.gif",
+        "splashBackgroundColor": "#0000ff",
+        "subtitle": "Mint Base Punkz on Base",
+        "description": "Base Punkz, A unique 10,000 NFT collection on Base network. ",
+        "screenshotUrls": [
+            "https://basepunkz.vercel.app/banner.png"
+        ],
+        "castShareUrl": "https://basepunkz.vercel.app/share",
+        "primaryCategory": "art-creativity",
+        "tags": [
+            "nft",
+            "base",
+            "basepunkz",
+            "collection",
+            "art"
+        ],
+        "heroImageUrl": "https://basepunkz.vercel.app/banner.png",
+        "tagline": "Mint Base Punkz on Base",
+        "ogTitle": "Mint Base Punkz",
+        "ogDescription": "Base Punkz. A unique 10,000 NFT collection on Base network.",
+        "ogImageUrl": "https://basepunkz.vercel.app/banner.png",
+        "requiredChains": [
+            "eip155:8453"
+        ],
+        "webhookUrl": "https://basepunkz.vercel.app/api/webhook",
+        "requiredCapabilities": [
+            "wallet.getEthereumProvider"
+        ]
+    },
+    "baseBuilder": {
+        "ownerAddress": "0xe080Afe09DA640E9707479Bd90f8Cb9c35c13992"
+    }
+}
