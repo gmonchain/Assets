@@ -1,0 +1,35 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjUzNzM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDVjOTkyNUQ1MDY1RTU2RkU3OTQ3OGMzMzYyNGUzRUJjYzFhOEFjN2UifQ",
+    "payload": "eyJkb21haW4iOiJjZWxvcG9sbC52ZXJjZWwuYXBwIn0",
+    "signature": "MHg1Y2QzNGI2MDQ5MzY5ODM1N2MzNDRlZjlmNmE1Mjc1ZTE0NmFhNTBkZjgyNTlkYmFiNmFlMmEzNzY1MWJhODE5N2EyODA3ZTYxY2IxMGQ1OTY4ODVkMmJiNjFkMTlhZDM3NzA5NTE3M2RmZDEwMTU0Y2I1YWQxMzFlZTI3NWNhYjFi"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Celo Poll",
+    "iconUrl": "https://github.com/gmonchain/Assets/blob/main/Celopoll/Logo.png?raw=true",
+    "homeUrl": "https://celopoll.vercel.app",
+    "imageUrl": "https://github.com/gmonchain/Assets/blob/main/Celopoll/Banner.png?raw=true",
+    "buttonTitle": "🗳️ Start Celo Earnings",
+    "splashImageUrl": "https://github.com/gmonchain/Assets/blob/main/Celopoll/Splash.png?raw=true",
+    "splashBackgroundColor": "#2b2d42",
+    "subtitle": "Celo Poll",
+    "description": "Decentralized polling platform on Celo blockchain for Celo Earnings",
+    "primaryCategory": "social",
+    "tags": ["farcaster", "voting", "polling", "social", "celo"],
+    "heroImageUrl": "https://github.com/gmonchain/Assets/blob/main/Celopoll/Banner.png?raw=true",
+    "tagline": "Vote on Celo",
+    "ogTitle": "Celo Poll",
+    "screenshotUrls": [
+      "https://github.com/gmonchain/Assets/blob/main/Celopoll/Banner.png?raw=true"
+    ], 
+    "ogDescription": "Decentralized polling platform on Celo blockchain for Celo Earnings",
+    "ogImageUrl": "https://github.com/gmonchain/Assets/blob/main/Celopoll/Banner.png?raw=true",
+    "requiredChains": ["eip155:42220"], 
+    "webhookUrl": "https://celopoll.vercel.app/api/webhook",
+    "castShareUrl": "https://celopoll.vercel.app/share"
+  },
+  "baseBuilder": {
+    "ownerAddress": "0xe080Afe09DA640E9707479Bd90f8Cb9c35c13992"
+  }
+}

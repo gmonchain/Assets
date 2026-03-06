@@ -1,0 +1,44 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjUzNzM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDVjOTkyNUQ1MDY1RTU2RkU3OTQ3OGMzMzYyNGUzRUJjYzFhOEFjN2UifQ",
+    "payload": "eyJkb21haW4iOiJtb25hZHNwaW4ueHl6In0",
+    "signature": "MHg3MDc2YmNkYzU3NTllNjFjZWQ2MGRhYTIyZTVkZGYzYjFhNTY5MWY5NWI4MDIxOGU1M2ZjYTI5N2U5ZTM5YTcxNzg5MjBiNDVkYWU3ZjEwODk5ODM3NmJiZDE4MWVmNWFhNjNjZDZhMzM4NzkzYTU0MTY3OWQyNjJiNTE5NTc4YzFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Monad Spin",
+    "iconUrl": "https://github.com/Web3vDev/Assets/blob/main/MonadSpin/icon.png?raw=true",
+    "homeUrl": "https://monadspin.xyz",
+    "splashImageUrl": "https://github.com/Web3vDev/Assets/blob/main/MonadSpin/splash.png?raw=true",
+    "splashBackgroundColor": "#191970",
+    "imageUrl": "https://github.com/Web3vDev/Assets/blob/main/MonadSpin/Banner.png?raw=true",
+    "buttonTitle": "Spin Now! 🎲",
+    "subtitle": "Spin and Win Monad Rewards",
+    "description": "Spin the wheel and win Monad rewards on the Monad blockchain! Daily spins, leaderboards, and exciting prizes await.",
+    "webhookUrl": "https://monadspin.xyz/api/webhook",
+    "screenshotUrls": [
+      "https://monadspin.xyz/banner2.png"
+    ],
+    "primaryCategory": "games",
+    "tags": [
+      "rewards",
+      "monad",
+      "game",
+      "GMonchain",
+      "airdrop"
+    ],
+    "heroImageUrl": "https://github.com/Web3vDev/Assets/blob/main/MonadSpin/Banner.png?raw=true",
+    "tagline": "Spin the wheel - win rewards!",
+    "ogTitle": "MonadSpin - Lucky Spin Wheel",
+    "ogDescription": "Spin the wheel and win crypto rewards on Monad blockchain!",
+    "requiredChains": [
+      "eip155:10143"
+    ],
+    "ogImageUrl": "https://github.com/Web3vDev/Assets/blob/main/MonadSpin/Banner.png?raw=true",
+    "castShareUrl": "https://monadspin.xyz/share",
+    "canonicalDomain": "monadspins.vercel.app"
+  },
+  "baseBuilder": {
+    "ownerAddress": "0xe080Afe09DA640E9707479Bd90f8Cb9c35c13992"
+  }
+}

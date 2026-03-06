@@ -1,0 +1,42 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjUzNzM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDVjOTkyNUQ1MDY1RTU2RkU3OTQ3OGMzMzYyNGUzRUJjYzFhOEFjN2UifQ",
+    "payload": "eyJkb21haW4iOiJnbW9uY2hhaW4udmVyY2VsLmFwcCJ9",
+    "signature": "MHg0OTViZjhhNDM1ZTdjZjc0NGY2OGJkZTA0NDczYjc2Zjk5MGM5MDYwOTEyYzExOTQxMGIyMGI4ZTRhNjA4ZmNmMzY0N2U2MDRhMDVhM2FmYjlkYmRhMGMyNDliNGY2MGIzYmQxMTJlN2EyMTU2YzUzZWI5MGQyZjQ5NzYxNTU5NTFi"
+  },
+  "miniapp": {
+    "targetUrl": "https://gmonchain.vercel.app",
+    "version": "1",
+    "name": "GMonchain",
+    "iconUrl": "https://github.com/Web3vDev/Assets/blob/main/GMonchain/icon.png?raw=true",
+    "homeUrl": "https://gmonchain.vercel.app",
+    "imageUrl": "https://github.com/Web3vDev/Assets/blob/main/GMonchain/Banner.png?raw=true",
+    "buttonTitle": "Send GM 😎",
+    "splashImageUrl": "https://github.com/Web3vDev/Assets/blob/main/GMonchain/splash.png?raw=true",
+    "splashBackgroundColor": "#FFFFFF",
+    "castShareUrl": "https://gmonchain.vercel.app/share",
+    "subtitle": "Send GM to another chain",
+    "description": "Send GM and connect globally, spread positivity, earn points",
+    "primaryCategory": "social",
+    "tags": [
+      "gm", 
+      "airdrop", 
+      "farcaster", 
+      "monad", 
+      "gmonchain"
+    ],
+    "heroImageUrl": "https://gmonchain.vercel.app/",
+    "tagline": "Send GM to another chain",
+    "ogTitle": "GMonchain",
+    "screenshotUrls": [
+      "https://github.com/Web3vDev/Assets/blob/main/GMonchain/Banner.png?raw=true"
+    ],
+    "ogDescription": "Send GM and connect globally, spread positivity, earn points",
+    "ogImageUrl": "https://github.com/Web3vDev/Assets/blob/main/GMonchain/Banner.png?raw=true",
+    "requiredChains": ["eip155:8453", "eip155:42220"], 
+    "webhookUrl": "https://gmonchain.vercel.app/api/webhook"
+  },
+  "baseBuilder": {
+    "ownerAddress": "0xe080Afe09DA640E9707479Bd90f8Cb9c35c13992"
+  }
+}

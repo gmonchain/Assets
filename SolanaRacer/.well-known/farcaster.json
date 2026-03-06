@@ -1,0 +1,43 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjUzNzM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDVjOTkyNUQ1MDY1RTU2RkU3OTQ3OGMzMzYyNGUzRUJjYzFhOEFjN2UifQ",
+    "payload": "eyJkb21haW4iOiJzb2xhbmFyYWNlci54eXoifQ",
+    "signature": "MHg4ZjVlYzM4MjljNWQ3OTZkNWIzOWNmZWViMThhYjE3ZGY4NTllOTIzMmQ1OTFmNTk0ZDViMGM2NjJmYzc3OTc1NGRjMjVlYzQ1N2E4MTk4MzAzMWFjZTFlMmNmMDllYzg4MDQwMjJhNzM1MzcwOWI2NGM4MDBlZTBjNjY3MTEwMDFj"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Solana Racer",
+    "iconUrl": "https://github.com/gmonchain/Assets/blob/main/SolanaRacer/icon.png?raw=true",
+    "homeUrl": "https://solanaracer.xyz",
+    "splashImageUrl": "https://github.com/gmonchain/Assets/blob/main/SolanaRacer/splash.png?raw=true",
+    "splashBackgroundColor": "#020a1f",
+    "imageUrl": "https://github.com/gmonchain/Assets/blob/main/SolanaRacer/Banner.png?raw=true",
+    "buttonTitle": "Join to Race",
+    "subtitle": "Solana Racer",
+    "description": "Guess the price of SOL and earn points daily! Compete on the leaderboard in this Farcaster Miniapp for Solana price prediction.",
+    "screenshotUrls": [
+      "https://github.com/gmonchain/Assets/blob/main/SolanaRacer/Banner.png?raw=true"
+    ],
+    "primaryCategory": "games",
+    "tags": [
+      "solana",
+      "racing",
+      "Farcaster",
+      "game",
+      "GMonchain"
+    ],
+    "heroImageUrl": "https://github.com/gmonchain/Assets/blob/main/SolanaRacer/Banner.png?raw=true",
+    "tagline": "Solana Racing Game",
+    "ogTitle": "SolanaRacer",
+    "ogDescription": "Guess the price of SOL and earn points daily!",
+    "ogImageUrl": "https://github.com/gmonchain/Assets/blob/main/SolanaRacer/Banner.png?raw=true",
+    "webhookUrl": "https://solanaracer.xyz/api/webhook",
+    "castShareUrl": "https://solanaracer.xyz/share",
+    "canonicalDomain": "solanaracer.vercel.app"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      "0xe080Afe09DA640E9707479Bd90f8Cb9c35c13992"
+    ]
+  }
+}

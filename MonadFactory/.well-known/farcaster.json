@@ -1,0 +1,45 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjUzNzM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDVjOTkyNUQ1MDY1RTU2RkU3OTQ3OGMzMzYyNGUzRUJjYzFhOEFjN2UifQ",
+    "payload": "eyJkb21haW4iOiJtb25hZGZhY3RvcnkudmVyY2VsLmFwcCJ9",
+    "signature": "MHg3YTRmYWExZGExYzAzODA2YzgxNThlMzNhMzdhNTgyOGE0MTlmYzA5NmYxMTBkMGU3MDJhNjViYTIyM2JjYWQ0N2EyMGM4ZmFmYWMzYzQ0ZmEyMmQ1NjAyMmM2YzA4ZjdiM2IyMThmYjNmYzM2NWZiOThhMzVmZjRlNWZjNjAwOTFi"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Monad Mainnet Factory",
+    "iconUrl": "https://github.com/gmonchain/Assets/blob/main/MonadFactory/icon.png?raw=true",
+    "homeUrl": "https://monadfactory.vercel.app/",
+    "splashImageUrl": "https://github.com/gmonchain/Assets/blob/main/MonadFactory/icon.png?raw=true",
+    "splashBackgroundColor": "#1a1a2e",
+    "imageUrl": "https://github.com/gmonchain/Assets/blob/main/MonadFactory/Banner.png?raw=true",
+    "buttonTitle": "Mint NFT Mainnet 💎",
+    "subtitle": "Get testnet MON tokens",
+    "description": "Get testnet MON tokens, deploy smart contracts, and mint NFTs on the Monad Network.",
+    "primaryCategory": "utility",
+    "tags": [
+      "faucet",
+      "monad",
+      "testnet",
+      "blockchain",
+      "development"
+    ],
+    "heroImageUrl": "https://github.com/gmonchain/Assets/blob/main/MonadFactory/Banner.png?raw=true",
+    "tagline": "Faucet MON tokens for free",
+    "ogTitle": "Monad Mainnet Factory",
+    "ogDescription": "Get testnet MON tokens, deploy smart contracts, and mint NFTs on Monad Testnet",
+    "ogImageUrl": "https://github.com/gmonchain/Assets/blob/main/MonadFactory/Banner.png?raw=true",
+    "requiredChains": [
+      "eip155:10143"
+    ],
+    "screenshotUrls": [
+      "https://github.com/gmonchain/Assets/blob/main/MonadFactory/Screenshot.png?raw=true"
+    ],
+    "webhookUrl": "https://monadfactory.vercel.app/api/webhook",
+    "castShareUrl": "https://monadfactory.vercel.app/share"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      "0xe080Afe09DA640E9707479Bd90f8Cb9c35c13992"
+    ]
+  }
+}

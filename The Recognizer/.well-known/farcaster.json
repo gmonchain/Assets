@@ -1,0 +1,44 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjUzNzM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDVjOTkyNUQ1MDY1RTU2RkU3OTQ3OGMzMzYyNGUzRUJjYzFhOEFjN2UifQ",
+    "payload": "eyJkb21haW4iOiJ0aGVyZWNvZ25pemVyLnh5eiJ9",
+    "signature": "MHhhYzQ0ZGU5ZWQ3OTgyY2E4ZGY4NDYwODhkYmNiYmRjNGFkMTMxOGNhMDk4ZmMzNWY1MTU2YjM1OTZlNzcyZWRmMjNiMTgwOGI5ODUxOGUwN2NiZTU0MDE3ZThkMWRmZjQzMmE4NDVjY2RiZWU4YTkzNTEzYjA1ZmVjMGFjMjRiNjFi"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "The Recognizer",
+    "iconUrl": "https://github.com/gmonchain/Assets/blob/main/The%20Recognizer/logo.png?raw=true",
+    "homeUrl": "https://therecognizer.xyz",
+    "imageUrl": "https://github.com/gmonchain/Assets/blob/main/The%20Recognizer/Banner.png?raw=true",
+    "buttonTitle": "🎯 Start Voting",
+    "splashImageUrl": "https://github.com/gmonchain/Assets/blob/main/The%20Recognizer/splash.png?raw=true",
+    "splashBackgroundColor": "#213147",
+    "subtitle": "The Recognizer",
+    "description": "The Recognizer - Vote for your favorite Farcaster user on Arbitrum",
+    "primaryCategory": "games",
+    "tags": [
+      "farcaster",
+      "voting",
+      "recognizer",
+      "Social",
+      "arbitrum"
+    ],
+    "heroImageUrl": "https://github.com/gmonchain/Assets/blob/main/The%20Recognizer/Banner.png?raw=true",
+    "tagline": "Vote favorite FC users",
+    "ogTitle": "The Recognizer",
+    "screenshotUrls": [
+      "https://github.com/gmonchain/Assets/blob/main/The%20Recognizer/Banner.png?raw=true"
+    ],
+    "ogDescription": "The Recognizer - Vote for your favorite Farcaster user on Arbitrum",
+    "ogImageUrl": "https://github.com/gmonchain/Assets/blob/main/The%20Recognizer/Banner.png?raw=true",
+    "requiredChains": [
+      "eip155:42161"
+    ],
+    "webhookUrl": "https://therecognizer.xyz/api/webhook",
+    "castShareUrl": "https://therecognizer.xyz/share",
+    "canonicalDomain": "therecognizer.vercel.app"
+  },
+  "baseBuilder": {
+    "ownerAddress": "0xe080Afe09DA640E9707479Bd90f8Cb9c35c13992"
+  }
+}

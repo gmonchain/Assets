@@ -1,0 +1,44 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjUzNzM3OCwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDVjOTkyNUQ1MDY1RTU2RkU3OTQ3OGMzMzYyNGUzRUJjYzFhOEFjN2UifQ",
+    "payload": "eyJkb21haW4iOiJmYXJyYW5rLmluZm8ifQ",
+    "signature": "MHg4ZTY5YmIxZDg0MTU1YmNlNjNiY2U2ZjkwODFmNTU5OWI5MmYyN2JkMTU3MGQ5MjQ3ZGYwMmY1ZjAzZDE3NDcxNjE3NWJkNDUwMzQ5M2IwODEzZmFlNjg1OTczNjdlYjhmZWIxMjUzZjc5OTJkNmNiMTRmYTIzOThkMWNhMDVhNTFi"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "FarRank",
+    "iconUrl": "https://github.com/Web3vDev/Assets/blob/main/FarRank/icon.png?raw=true",
+    "homeUrl": "https://farrank.info",
+    "splashImageUrl": "https://github.com/Web3vDev/Assets/blob/main/FarRank/splash.png?raw=true",
+    "splashBackgroundColor": "#fafaff",
+    "imageUrl": "https://github.com/Web3vDev/Assets/blob/main/FarRank/Banner.png?raw=true",
+    "buttonTitle": "Check your Airdrop 🕵🏻",
+    "subtitle": "Track Farcaster score and info",
+    "description": "FarRank helps you track your Farcaster engagement metrics, wallet information, and token balances in one place, with detailed analytics and insights.",
+    "primaryCategory": "social",
+    "tags": [
+      "analytics",
+      "score",
+      "metrics",
+      "FarcasterAirdrop",
+      "FarRank"
+    ],
+    "heroImageUrl": "https://github.com/Web3vDev/Assets/blob/main/FarRank/Banner.png?raw=true",
+    "tagline": "Farcaster Analytics",
+    "screenshotUrls": [
+      "https://github.com/Web3vDev/Assets/blob/main/FarRank/Banner.png?raw=true"
+    ],
+    "ogTitle": "FarRank - Farcaster Analytics",
+    "ogDescription": "Track your Farcaster score and wallet information with detailed analytics and insights",
+    "ogImageUrl": "https://github.com/Web3vDev/Assets/blob/main/FarRank/Banner.png?raw=true",
+    "requiredChains": [
+      "eip155:8453"
+    ],
+    "webhookUrl": "https://farrank.info/api/webhook",
+    "castShareUrl": "https://farrank.info/share",
+    "canonicalDomain": "farrank.vercel.app"
+  },
+  "baseBuilder": {
+    "ownerAddress": "0xe080Afe09DA640E9707479Bd90f8Cb9c35c13992"
+  }
+}

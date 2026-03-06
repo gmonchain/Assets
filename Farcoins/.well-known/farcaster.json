@@ -1,0 +1,46 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjUzNzM3OCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDVlNGFhREZEQjhFMjc0ZTk1OTk0NmM0M2Y5NzREOWQzRTA2RDE5YTkifQ",
+    "payload": "eyJkb21haW4iOiJmYXJjb2lucy54eXoifQ",
+    "signature": "RmEQt2pIDHFjCSYELMSbyecH7khfyZL8HHBg20G1k6hW8NhAzPRtgaWrazKBEJgaTNQZQRi5vaiTucx5NNPxqBs="
+  },
+  "frame": {
+    "version": "1",
+    "name": "Farcoins",
+    "iconUrl": "https://github.com/gmonchain/Assets/blob/main/Farcoins/logo.png?raw=true",
+    "homeUrl": "https://farcoins.xyz",
+    "splashImageUrl": "https://github.com/gmonchain/Assets/blob/main/Farcoins/splash.png?raw=true",
+    "splashBackgroundColor": "#020a1f",
+    "imageUrl": "https://github.com/gmonchain/Assets/blob/main/Farcoins/Banner.png?raw=true",
+    "buttonTitle": "Coin Your Profile",
+    "subtitle": "Farcoins",
+    "description": "Coin Your Profile Claim Airdrop Compete on the leaderboard",
+    "webhookUrl": "https://farcoins.xyz/api/webhook",
+    "screenshotUrls": [
+      "https://github.com/gmonchain/Assets/blob/main/Farcoins/Banner.png?raw=true"
+    ],
+    "primaryCategory": "finance",
+    "tags": [
+      "farcoins",
+      "Farcaster",
+      "Social",
+      "GMonchain",
+      "Airdrop"
+    ],
+    "heroImageUrl": "https://github.com/gmonchain/Assets/blob/main/Farcoins/Banner.png?raw=true",
+    "tagline": "Coin Your Profile",
+    "ogTitle": "Farcoins",
+    "ogDescription": "Coin Your Profile Claim Airdrop Compete on the leaderboard",
+    "requiredChains": [
+      "eip155:8453"
+    ],
+    "ogImageUrl": "https://github.com/gmonchain/Assets/blob/main/Farcoins/Banner.png?raw=true",
+    "castShareUrl": "https://farcoins.xyz/share"
+  },
+  "canonicalDomain": "farcoins.vercel.app",
+  "baseBuilder": {
+    "allowedAddresses": [
+      "0xe080Afe09DA640E9707479Bd90f8Cb9c35c13992"
+    ]
+  }
+}
